@@ -33,3 +33,14 @@
     line-height: 2;
     text-align: center;
 }
+
+.btn-success:hover{
+    color: blue;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aqua;
+    margin-top: 150px;
+}
