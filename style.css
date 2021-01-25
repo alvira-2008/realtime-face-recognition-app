@@ -26,10 +26,10 @@
 
 .copy_right_footer{
     position: fixed;
-    color: purple;
+    color: Blue;
     bottom: 0;
     width: 100%;
-    background-color: lavender;
+    background-color: skyblue;
     line-height: 2;
     text-align: center;
 }
